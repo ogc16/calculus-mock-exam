@@ -1,6 +1,6 @@
-# SMA 2102 Calculus II – Mock Exam
+# Calculus II – Mock Exam
 
-A mock examination website for JKUAT **SMA 2102 – Calculus II**, containing **50 questions** with full worked solutions covering integration techniques and their applications.
+A mock examination website for **Calculus II**, containing **50 questions** with full worked solutions covering integration techniques and their applications.
 
 ## Features
 
@@ -40,4 +40,4 @@ No internet connection required beyond the CDN-hosted MathJax and Tailwind CSS.
 
 ## License
 
-For educational use. Created as a study aid for JKUAT SMA 2102 Calculus II.
+For educational use. Created as a study aid for Calculus II.
